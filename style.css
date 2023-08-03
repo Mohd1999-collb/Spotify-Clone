@@ -197,6 +197,11 @@ footer {
 
 /* ************************************************* */
 /* Start index_1.html css */
+
+.container-2 {
+  background: linear-gradient(to bottom, #90aea7, #000 50%);
+}
+
 .head-item-4-img{
   margin-top: 160px
 }
@@ -330,9 +335,9 @@ footer {
   /* *************** End media query of index.html*************** */
 
   /* Start media quuery of index_1.html*/
-  .container-2 {
+/*   .container-2 {
     background: linear-gradient(180deg, #90aea7 0%, #000 50%);
-  }
+  } */
 
   .line-item {
     width: 17%;
