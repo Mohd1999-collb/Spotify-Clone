@@ -3,6 +3,7 @@
 * {
   margin: 0px;
   padding: 0px;
+  font-family: "DM Sans", sans-serif;
 }
 
 
@@ -117,6 +118,10 @@ header .logo {
   margin-top: 6px;
   margin: 0px 9px;
   border: none;
+}
+
+.div-card-7, .div-card-8{
+  display: none;
 }
 
 /* Footer css */
@@ -252,6 +257,10 @@ footer {
     background: rgba(24, 24, 24, 1);
     flex-direction: row !important;
   }
+
+  .div-card-7, .div-card-8{
+  display: block;
+}
 
   .l-1 {
     margin-bottom: 5px;
